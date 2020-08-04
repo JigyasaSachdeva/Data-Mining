@@ -1,4 +1,4 @@
-# DataMining
+# Data Mining Practice
 Assignments to analyze data for manipulation and modeling
 
 - Topic covered in 'Basic Data Manipulation' in R:
