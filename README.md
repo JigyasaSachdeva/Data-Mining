@@ -1,6 +1,17 @@
 # Data Mining Practice
 Assignments to analyze data for manipulation and modeling
 
+- Topic covered in 'Univariate Bivariate Analysis' in R:
+  1. Null values treatment
+  2. Normal Distribution formation
+  3. Outlier Treatment
+  
+- Topic covered in 'AOV & TukeyHSD' in R:
+  1. Analysis of Variance
+  2. Tukey HSD for multiple levels 
+  3. Linear Regression Modelling
+  4. Correlation Testing
+
 - Topic covered in 'Basic Data Manipulation' in R:
   1. Reading, Viewing and understanding structure of data
   2. Changing column and row names
@@ -21,3 +32,8 @@ Assignments to analyze data for manipulation and modeling
   4. Creating ROC curve to evaluate performance and selecting optimal cut off point to find balance between high TP and low FN 
   5. Performing bagging and creating a random forest model to predicting the target variable 
   6. Evaluating the models using confusion matrix
+
+
+  
+
+ 
