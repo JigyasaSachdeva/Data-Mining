@@ -1,6 +1,6 @@
 #Jigyasa Sachdeva
 #Assignment 1
-#IDS-572, Data Mining, Semester: Spring'20
+#IDS-572, Data Mining, Semester: Spring'20 
 #Masters in Management Information Systems
 #Liautaud Business School, University of Illinois at Chicago
 
